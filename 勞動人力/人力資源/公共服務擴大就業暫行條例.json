@@ -1,13 +1,9 @@
 {
     "title": "公共服務擴大就業暫行條例",
     "versions": [
-        "中華民國92年1月14日制定",
-        "中華民國92年2月6日公布"
+        "中華民國93年6月18日期滿廢止"
     ],
-    "types": [
-        "異動條文及理由",
-        "立法歷程"
-    ],
+    "types": [],
     "law_data": [
         {
             "note": "(立法目的)",
@@ -83,34 +79,6 @@
             "note": "(施行日)",
             "rule_no": "第十五條",
             "content": "　　本條例施行日期，由行政院以命令定之；其施行期間為一年。"
-        }
-    ],
-    "law_reasons": {},
-    "law_history": [
-        {
-            "進度": "一讀",
-            "會議日期": "920103",
-            "立法紀錄": "92卷5期3279號一冊 8-8頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@920501;0008;0008",
-            "主提案": "行政院",
-            "關係文書": [
-                [
-                    "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcdcec9cfcec5ccc8cbd2ccc7ce"
-                ]
-            ]
-        },
-        {
-            "進度": "三讀",
-            "會議日期": "920114",
-            "立法紀錄": "92卷8期3282號六冊 2258-2263頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@920806;2258;2263",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcdcec8cfcec5cbc9ced2cbc8c8"
-                ]
-            ]
         }
     ]
 }
