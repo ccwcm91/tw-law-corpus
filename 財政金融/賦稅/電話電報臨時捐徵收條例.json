@@ -1,8 +1,8 @@
 {
     "title": "電話電報臨時捐徵收條例",
     "versions": [
-        "中華民國59年5月26日修正",
-        "中華民國59年6月4日公布"
+        "中華民國60年6月4日修正",
+        "中華民國60年6月15日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -37,35 +37,49 @@
         {
             "note": "(施行期間)",
             "rule_no": "第六條",
-            "content": "　　本條例自中華民國五十九年七月一日施行。施行期間一年。"
+            "content": "　　本條例自中華民國六十年七月一日施行。施行期間一年。"
         }
     ],
     "law_reasons": {},
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "590421",
-            "立法紀錄": "59卷29期號 2-2頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@5945290001;0002;0002",
+            "會議日期": "600406",
+            "立法紀錄": "60卷24期378號 2-2頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@6047240001;0002;0002",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcacfcdcfcfc5cbc6c7d2cacfcf"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbc8cfcdcfcfc5cccec7d2cccdce"
+                ]
+            ]
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "600510",
+            "立法紀錄": "60卷87期440號 32-37頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@60488700;0032;0037",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "600601",
+            "立法紀錄": "60卷40期394號 31-36頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@6047400001;0031;0036",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbc8cfcccfcfc5c8c6cfd2c8c6cc"
                 ]
             ]
         },
         {
             "進度": "三讀",
-            "會議日期": "590526",
-            "立法紀錄": "59卷39期號 2-2頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@5945390001;0002;0002",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcacfc9cfcfc5c9cfd2c9cd"
-                ]
-            ]
+            "會議日期": "600604",
+            "立法紀錄": "60卷41期395號 12-14頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@6047410001;0012;0014",
+            "關係文書": []
         }
     ]
 }
