@@ -1,8 +1,8 @@
 {
     "title": "郵政法",
     "versions": [
-        "中華民國77年6月28日修正",
-        "中華民國77年7月15日公布"
+        "中華民國90年5月4日修正",
+        "中華民國90年5月16日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -264,41 +264,41 @@
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "770114",
-            "立法紀錄": "77卷5期2116號 2-2頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@7700500;0002;0002",
-            "主提案": "行政院",
+            "會議日期": "900320",
+            "立法紀錄": "90卷12期3146號上冊 3-3頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@901201;0003;0003",
+            "主提案": "林政則",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7cfcec6cfcfc5ccccced2cccbcd"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcacfcccfcbc5cbc6cdd2cbc6cb"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "770514",
-            "立法紀錄": "77卷70期2181號 2-15頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@7707000;0002;0015",
+            "會議日期": "900402",
+            "立法紀錄": "90卷21期3155號下冊 13-22頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@902103;0013;0022",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "770628",
-            "立法紀錄": "77卷52期2163號 23-32頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@7705200;0023;0032",
+            "會議日期": "900504",
+            "立法紀錄": "90卷24期3158號上冊 72-80頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@902401;0072;0080",
             "關係文書": [
                 [
                     "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7cecec6cfcfc5ccc6c9d2cbcfcb"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcacfc9cfcdc5cacac7d2cac9ca"
                 ]
             ]
         },
         {
             "進度": "三讀",
-            "會議日期": "770628",
-            "立法紀錄": "77卷52期2163號 32-32頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@7705200;0032;0032",
+            "會議日期": "900504",
+            "立法紀錄": "90卷24期3158號上冊 80-80頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@902401;0080;0080",
             "關係文書": []
         }
     ]
