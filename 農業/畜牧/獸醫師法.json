@@ -1,12 +1,12 @@
 {
     "title": "獸醫師法",
     "versions": [
-        "中華民國84年1月6日全文修正",
-        "中華民國84年1月27日公布"
+        "中華民國89年5月2日修正",
+        "中華民國89年5月17日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "異動條文及理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -26,7 +26,7 @@
         {
             "note": "(主管機關)",
             "rule_no": "第三條",
-            "content": "　　本法所稱主管機關：在中央為行政院農業委員會；在省（市）為省（市）政府；在縣（市）為縣（市）政府。"
+            "content": "　　本法所稱主管機關：在中央為行政院農業委員會；在直轄市為直轄市政府；在縣（市）為縣（市）政府。"
         },
         {
             "note": "(獸醫師或獸醫佐證書之請領程序)",
@@ -314,51 +314,60 @@
             "content": "　　本法自公布日施行。"
         }
     ],
+    "law_reasons": {},
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "771007",
-            "立法紀錄": "77卷81期2192號 2-2頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@7708100;0002;0002",
+            "會議日期": "890321",
+            "立法紀錄": "89卷12期3071號上冊 6-6頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@891201;0006;0006",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7cdcfcacfcfc5cbccd2c9c8"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcccfcdcfcec5cac6c9d2cac6c8"
+                ],
+                [
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcccfcdcfcec5c9c9cfd2c9c9ce"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "780408",
-            "立法紀錄": "78卷96期2312號 12-22頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@7809600;0012;0022",
+            "會議日期": "890406",
+            "立法紀錄": "89卷17期3076號 181-210頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@891700;0181;0210",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "840106",
-            "立法紀錄": "84卷3期2760號上冊 400-436頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@840301;0400;0436",
+            "會議日期": "890428",
+            "立法紀錄": "89卷21期3080號 68-146頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@892100;0068;0146",
             "關係文書": [
                 [
                     "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfceccc7cfcfc5cecec6d2cecacc"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcccfc7cfcfc5cac6c9d2c9cfce"
+                ],
+                [
+                    "審查報告",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcccfc7cfcfc5c9c9c8"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "840106",
-            "立法紀錄": "84卷3期2760號上冊 436-444頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@840301;0436;0444",
+            "會議日期": "890502",
+            "立法紀錄": "89卷22期3081號 61-61頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@892200;0061;0061",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "840106",
-            "立法紀錄": "84卷3期2760號上冊 444-445頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@840301;0444;0445",
+            "會議日期": "890502",
+            "立法紀錄": "89卷22期3081號 61-61頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@892200;0061;0061",
             "關係文書": []
         }
     ]
