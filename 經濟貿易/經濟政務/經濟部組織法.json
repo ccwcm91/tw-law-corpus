@@ -1,8 +1,8 @@
 {
     "title": "經濟部組織法",
     "versions": [
-        "中華民國91年1月4日修正",
-        "中華民國91年1月25日公布"
+        "中華民國93年1月9日修正",
+        "中華民國93年1月20日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -55,9 +55,9 @@
             "content": "　　經濟部設標準檢驗局；其組織以法律定之。"
         },
         {
-            "note": "(能源委員會之設置)",
+            "note": "(能源局)",
             "rule_no": "第十條",
-            "content": "　　經濟部設能源委員會，其組織以法律定之。"
+            "content": "　　經濟部設能源局；其組織以法律定之。"
         },
         {
             "note": "(礦務局、商業局及水利署)",
@@ -214,41 +214,41 @@
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "900327",
-            "立法紀錄": "90卷14期3148號上冊 13-13頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@901401;0013;0013",
+            "會議日期": "910409",
+            "立法紀錄": "91卷24期3220號 5-5頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@912400;0005;0005",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcacfcdcfcdc5cacecfd2cacac6"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcecfc9cfcec5cdccc7d2cdcbce"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "900502",
-            "立法紀錄": "90卷32期3166號 27-50頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@903200;0027;0050",
+            "會議日期": "910529",
+            "立法紀錄": "91卷51期3247號上冊 3-16頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@915101;0003;0016",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "910104",
-            "立法紀錄": "91卷5期3201號上冊 48-94頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@910501;0048;0094",
+            "會議日期": "930109",
+            "立法紀錄": "93卷6期3340號一冊 179-189頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@930601;0179;0189",
             "關係文書": [
                 [
                     "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfc9cececfccc5cdceced2cdcac8"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcbcec8cfcec5cbccc6d2cbcacd"
                 ]
             ]
         },
         {
             "進度": "三讀",
-            "會議日期": "910104",
-            "立法紀錄": "91卷5期3201號上冊 94-95頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@910501;0094;0095",
+            "會議日期": "930109",
+            "立法紀錄": "93卷6期3340號一冊 189-189頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@930601;0189;0189",
             "關係文書": []
         }
     ]
