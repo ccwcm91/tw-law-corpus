@@ -1,11 +1,11 @@
 {
     "title": "陸海空軍士官服役條例",
     "versions": [
-        "中華民國83年12月29日修正",
-        "中華民國84年1月16日公布"
+        "中華民國88年4月20日廢止",
+        "中華民國88年5月5日公布"
     ],
     "types": [
-        "異動條文及理由",
+        "廢止理由",
         "立法歷程"
     ],
     "law_data": [
@@ -195,46 +195,38 @@
             "content": "　　本條例自公布日施行"
         }
     ],
-    "law_reasons": {},
+    "deprecated_reason": "　　「陸海空軍軍官士官服役條例」於八十四年十一月通過，且該法自八十六年一月一日施行，「陸海空軍士官服役條例」已為該法所取代，故予廢止。",
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "820326",
-            "立法紀錄": "82卷16期2615號上冊 56-57頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@821601;0056;0057",
-            "主提案": "潘維剛",
+            "會議日期": "860307",
+            "立法紀錄": "86卷6期2898號上冊 3-3頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@860601;0003;0003",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcecfc6cfcfc5c9c7c6d2c9c6cf"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfcccfcccfcec5cecbcbd2cec9cd"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "821215",
-            "立法紀錄": "82卷75期2674號下冊 401-407頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@827503;0401;0407",
+            "會議日期": "870304",
+            "立法紀錄": "87卷7期2956號下冊 53-61頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@870703;0053;0061",
             "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "831219",
-            "立法紀錄": "84卷2期2759號 35-39頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@840200;0035;0039",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcbcec9cfcfc5cbc7cbd2cbc7c7"
-                ]
-            ]
         },
         {
             "進度": "三讀",
-            "會議日期": "831229",
-            "立法紀錄": "84卷2期2759號 39-39頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@840200;0039;0039",
-            "關係文書": []
+            "會議日期": "880420",
+            "立法紀錄": "88卷19期3019號上冊 86-97頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@881901;0086;0097",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcecfc7cfcdc5c7ccd2cecfce"
+                ]
+            ]
         }
     ]
 }
