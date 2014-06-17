@@ -1,11 +1,11 @@
 {
     "title": "公務人員住宅及福利委員會組織條例",
     "versions": [
-        "中華民國86年3月21日制定",
-        "中華民國86年4月9日公布"
+        "中華民國103年5月30日廢止",
+        "中華民國103年6月18日公布"
     ],
     "types": [
-        "異動條文及理由",
+        "廢止理由",
         "立法歷程"
     ],
     "law_data": [
@@ -100,45 +100,52 @@
             "content": "　　本條例自公布日施行。"
         }
     ],
-    "law_reasons": {},
+    "deprecated_reason": "　　配合組織改造作業，原行政院人事行政局改制為行政院人事行政總處，公務人員住宅及福利委員會予以裁併。行政院人事行政總處及所屬組織法業於101年2月6日施行，依據「中央法規標準法」第21條第1、4款規定，旨揭組織條例已無適用之必要，應配合辦理廢止，俾完備法制作業。",
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "830520",
-            "立法紀錄": "83卷35期2709號 12-14頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@833500;0012;0014",
-            "主提案": "行政院",
+            "會議日期": "1010427",
+            "立法紀錄": "101卷25期3966號 33-33頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10102501;0033;0033",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcccec8cfcdc5ccc9ccd2ccc8cf"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcecfc7cfcec5cbcdcbd2cbcdca"
+                ],
+                [
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcecfc7cfcec5cbcdc6d2cbcccf"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "850115",
-            "立法紀錄": "85卷7期2829號 283-299頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@850700;0283;0299",
+            "會議日期": "1030514",
+            "立法紀錄": "103卷39期4148號 151-199頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10303901;0151;0199",
             "關係文書": []
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "860321",
-            "立法紀錄": "86卷10期2902號上冊 103-117頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@861001;0103;0117",
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1030530",
+            "立法紀錄": "103卷43期4152號三冊 1-9頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10304303;0001;0009",
             "關係文書": [
                 [
                     "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfcececccfcec5cccbc6d2ccc9ce"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcacecdc8c7c5c9cfced2c9cfcd"
+                ],
+                [
+                    "審查報告",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcacecdc8c7c5c9cfc9d2c9cfc8"
                 ]
             ]
         },
         {
             "進度": "三讀",
-            "會議日期": "860321",
-            "立法紀錄": "86卷10期2902號上冊 117-117頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@861001;0117;0117",
+            "會議日期": "1030530",
+            "立法紀錄": "103卷43期4152號三冊 9-9頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10304303;0009;0009",
             "關係文書": []
         }
     ]
